@@ -1,6 +1,4 @@
-body {
-    background: white;
-}
+
 
 #formulario {
     font-size: 13px;
@@ -23,9 +21,7 @@ body {
     height: 20px;
 }
 
-h3 {
-    color: rgb(72, 151, 216);
-}
+
 
 .div-font-size {
     font-size: 14px;
@@ -56,3 +52,85 @@ hr {
     padding-top: 80px;
 
 }
+body{
+    font-size: 18px;
+    background: white;
+    }
+    
+    /* NAV */
+    .bg-menu {
+        background-color: #222222;
+    }
+    
+    .gris{
+        color: grey;
+    }
+    
+    .sobre-enlace:hover{
+        color: rgb(82, 80, 80)
+    }
+    
+    /* TAGLINE */
+    
+    .fondo-imagen{
+        height: 600px;
+        background-image: url("https://www.adonde-y-cuando.es/site/images/illustration/atlanta-georgie_809.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        padding-top: 50px;
+    
+    }
+    
+    h1{
+        font-size: 120px;
+        text-align: center;
+        margin: 0
+        
+    }
+    
+    h2{
+        font-size: 80px;
+        margin-top: 20px;
+    
+    }
+    
+    h3{
+        font-size: 50px;
+        color: rgb(72, 151, 216);
+    }
+    
+    
+    .contenedor-cabecera{
+       margin-top: 60px;
+    }
+    .texto-cabecera {
+        text-align: center;
+        background-color: rgba(255, 255, 255, 0.9);
+        width: 97%;
+        margin: 30px auto;
+        
+    }
+    
+    
+    .divider{
+        height: 100px;
+        border-bottom: 1px solid #d8d6d6;
+        width: 70%;
+        margin: 0 auto;
+        
+    }
+    
+    /* FIRST HEADING */
+    
+    .imagen-walter {
+        width: 400px;
+        
+    }
+    
+    .imagen-walter img {
+        width: 100%;
+    }
+    
+    .texto-heading {
+        font-size: 25px;
+    }
