@@ -1,3 +1,58 @@
-body{
-    background: #BDBDBD;
+body {
+    background: white;
+}
+
+#formulario {
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+.div-form {
+    width: 750px;
+    height: 220px;
+    margin: auto;
+    padding-right: 10px;
+    padding-left: 100px;
+
+}
+
+.div-text-square {
+
+    width: 500px;
+    height: 20px;
+}
+
+h3 {
+    color: rgb(72, 151, 216);
+}
+
+.div-font-size {
+    font-size: 14px;
+}
+
+#text-principal {
+    font-size: 20px;
+}
+
+#footer {
+    padding-top: 50px;
+}
+
+.img-rounded {
+    width: 350px;
+    height: 340px;
+    float: left;
+    
+}
+
+#title-h1 {
+    width: 700px;
+  
+    
+}
+
+hr {
+    padding-top: 80px;
+
 }
